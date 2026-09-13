@@ -49,3 +49,7 @@ Accede a: http://localhost:3000
 ## Licencia
 
 MIT
+
+---
+
+Última actualización: 2026-09-13
